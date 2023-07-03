@@ -55,35 +55,16 @@ Nosso site é uma plataforma completa para gerenciamento de clientes e contatos,
     - Criar uma nova transação entre dois usuário
     - Listar uma transação
 
-## 🚀 Como executar o projeto
 
-### Pré-requisitos
+## Pré-requisitos antes de executar o projeto localmente
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+[JDK ](https://www.oracle.com/java/technologies/downloads/), [Maven](https://maven.apache.org/download.cgi). 
+Além disto é bom ter um editor (IDE) para trabalhar com o código como [JetBrains](https://www.jetbrains.com/idea/download/?section=windows#section=windows)
 
-#### 🎲 Rodando o Backend (servidor)
 
-```bash
-
-# Clone este repositório
-$ git clone git@github.com:diegoguilhermeDS/connect-sphere.git
-
-# Acesse a pasta do projeto no seu terminal/cmd
-$ cd api-connect-sphere
-
-# Instale as dependências
-$ npm install
-
-# Execute a aplicação em modo de desenvolvimento
-$ npm run start:dev
-
-# A aplicação será aberta na porta:3000 - acesse http://localhost:3001
-
-```
 <p align="center">
-    <a href="https://insomnia.rest/run/?label=Connect%20Sphere&uri=https%3A%2F%2Fraw.githubusercontent.com%2FdiegoguilhermeDS%2Fapi-connect-sphere%2Fdevelop%2Fworkspace" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+    <a href="https://insomnia.rest/run/?label=Finance%20Hub&uri=https%3A%2F%2Fgithub.com%2FdiegoguilhermeDS%2Fapi-finance-hub%2Fblob%2F8e3d9d25e6fa86c527e952c8b8e02a3e63c1f3c1%2Fworkspace" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
 </p>
 
 
